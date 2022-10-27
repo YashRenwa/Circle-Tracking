@@ -1,6 +1,9 @@
 # Circle Tracking Software
 
-This code allows a user to track circular objects in a video frame by outlining the object and displaying center coordinates.
+This code allows a user to track circular objects in a video frame by outlining the object and displaying center coordinates. This is how the output looks:
+
+
+https://user-images.githubusercontent.com/62590869/198213744-3e7686c1-f78f-433d-abb7-223167d69fd3.mp4
 
 ## Executing the code
 
