@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/62590869/198213744-3e7686c1-f78f-433d-
 Download the code directly as zip or use this command
 
 ```bash
-git clone repo directing
+git clone https://github.com/YashRenwa/Circle-Tracking
 ```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install cv2 and numpy packages (Use pip3 instead on mac).
